@@ -1,10 +1,13 @@
 # Normalizacion de tablas 
 
-
+Organizar los datos de una base de datos de manera que cumplan con ciertas reglas o formas normales.
 
 ## Primera Forma Normal 
 
 Identificar las redundancias y datos que no sean atomicos, separar dependencias en tablas mas pequeñas.
+
+Estos es la tabla con datos crudos en la que podemos evidenciar redundancias en algunos campos.
+![datos crudos](https://github.com/LuisDuran29/base_de_datos1/blob/main/imagenes/datos_crudos.png)
 
 
 **Tabla universidades**
