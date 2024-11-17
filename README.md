@@ -12,6 +12,9 @@ En esta se tabla se encuentra con datos crudos en la que podemos evidenciar redu
 
 Agrupamos los datos en diferetes tablas para que nos sea mas facil identificar las dependencias.
 ![datos crudos](https://github.com/LuisDuran29/base_de_datos1/blob/main/imagenes/organizar_info.png)
+![datos crudos](https://github.com/LuisDuran29/base_de_datos1/blob/main/imagenes/organizar_vehiculo.png)
+![datos crudos](https://github.com/LuisDuran29/base_de_datos1/blob/main/imagenes/organizar_ingreso.png)
+
 
 **Tabla universidades**
 
