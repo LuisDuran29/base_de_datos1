@@ -6,9 +6,12 @@ Organizar los datos de una base de datos de manera que cumplan con ciertas regla
 
 Identificar las redundancias y datos que no sean atomicos, separar dependencias en tablas mas pequeñas.
 
-Estos es la tabla con datos crudos en la que podemos evidenciar redundancias en algunos campos.
+En esta se tabla se encuentra con datos crudos en la que podemos evidenciar redundancias en algunos campos.
+
 ![datos crudos](https://github.com/LuisDuran29/base_de_datos1/blob/main/imagenes/datos_crudos.png)
 
+Agrupamos los datos en diferetes tablas para que nos sea mas facil identificar las dependencias.
+![datos crudos](https://github.com/LuisDuran29/base_de_datos1/blob/main/imagenes/organizar_info.png)
 
 **Tabla universidades**
 
